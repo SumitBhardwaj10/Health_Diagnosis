@@ -1,0 +1,1913 @@
+{
+    "reconstruct": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "abdominal aortic aneurysm": {
+        "DoctorToVisit": "Vascular Surgeon"
+    },
+    "abdominal hernia": {
+        "DoctorToVisit": "General Surgeon"
+    },
+    "abscess of nose": {
+        "DoctorToVisit": "ENT (Otolaryngologist)"
+    },
+    "abscess of the lung": {
+        "DoctorToVisit": "Thoracic Surgeon / Pulmonologist"
+    },
+    "abscess of the pharynx": {
+        "DoctorToVisit": "ENT (Otolaryngologist)"
+    },
+    "acanthosis nigricans": {
+        "DoctorToVisit": "Endocrinologist"
+    },
+    "actinic keratosis": {
+        "DoctorToVisit": "Dermatologist"
+    },
+    "acute bronchiolitis": {
+        "DoctorToVisit": "Pediatrician"
+    },
+    "acute bronchitis": {
+        "DoctorToVisit": "Pulmonologist"
+    },
+    "acute bronchospasm": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "acute fatty liver of pregnancy": {
+        "DoctorToVisit": "Obstetrician-Gynecologist (OB-GYN)"
+    },
+    "acute glaucoma": {
+        "DoctorToVisit": "Ophthalmologist"
+    },
+    "acute kidney injury": {
+        "DoctorToVisit": "Nephrologist"
+    },
+    "acute otitis media": {
+        "DoctorToVisit": "ENT (Otolaryngologist)"
+    },
+    "acute pancreatitis": {
+        "DoctorToVisit": "Gastroenterologist"
+    },
+    "acute respiratory distress syndrome": {
+        "DoctorToVisit": "Pulmonologist"
+    },
+    "acute sinusitis": {
+        "DoctorToVisit": "ENT (Otolaryngologist)"
+    },
+    "acute stress reaction": {
+        "DoctorToVisit": "Psychiatrist"
+    },
+    "adhesive capsulitis of the shoulder": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "adjustment reaction": {
+        "DoctorToVisit": "Psychiatrist"
+    },
+    "adrenal adenoma": {
+        "DoctorToVisit": "Urologist"
+    },
+    "adrenal cancer": {
+        "DoctorToVisit": "Urologist"
+    },
+    "alcohol abuse": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "alcohol intoxication": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "alcohol withdrawal": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "alcoholic liver disease": {
+        "DoctorToVisit": "Hepatologist / Gastroenterologist"
+    },
+    "allergy to animals": {
+        "DoctorToVisit": "Allergist/Immunologist"
+    },
+    "alzheimer disease": {
+        "DoctorToVisit": "Neurologist"
+    },
+    "amyloidosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "amyotrophic lateral sclerosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "anal fissure": {
+        "DoctorToVisit": "General Surgeon"
+    },
+    "anal fistula": {
+        "DoctorToVisit": "General Surgeon"
+    },
+    "anemia due to chronic kidney disease": {
+        "DoctorToVisit": "Urologist"
+    },
+    "anemia due to malignancy": {
+        "DoctorToVisit": "Hematologist"
+    },
+    "anemia of chronic disease": {
+        "DoctorToVisit": "Hematologist"
+    },
+    "ankylosing spondylitis": {
+        "DoctorToVisit": "Rheumatologist"
+    },
+    "aortic valve disease": {
+        "DoctorToVisit": "Cardiologist"
+    },
+    "aphthous ulcer": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "aplastic anemia": {
+        "DoctorToVisit": "Hematologist"
+    },
+    "appendicitis": {
+        "DoctorToVisit": "General Surgeon"
+    },
+    "arthritis of the hip": {
+        "DoctorToVisit": "Rheumatologist"
+    },
+    "ascending cholangitis": {
+        "DoctorToVisit": "Gastroenterologist"
+    },
+    "asperger syndrome": {
+        "DoctorToVisit": "Psychiatrist"
+    },
+    "aspergillosis": {
+        "DoctorToVisit": "Infectious Disease Specialist"
+    },
+    "astigmatism": {
+        "DoctorToVisit": "Ophthalmologist"
+    },
+    "atelectasis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "atonic bladder": {
+        "DoctorToVisit": "Urologist"
+    },
+    "atrial fibrillation": {
+        "DoctorToVisit": "Cardiologist"
+    },
+    "atrial flutter": {
+        "DoctorToVisit": "Cardiologist"
+    },
+    "atrophic skin condition": {
+        "DoctorToVisit": "Dermatologist"
+    },
+    "atrophic vaginitis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "atrophy of the corpus cavernosum": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "attention deficit hyperactivity disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "autonomic nervous system disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "avascular necrosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "benign kidney cyst": {
+        "DoctorToVisit": "Urologist"
+    },
+    "benign paroxysmal positional vertical": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "benign prostatic hyperplasia": {
+        "DoctorToVisit": "Urologist"
+    },
+    "benign vaginal discharge": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "bipolar disorder": {
+        "DoctorToVisit": "Psychiatrist"
+    },
+    "birth trauma": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "bladder cancer": {
+        "DoctorToVisit": "Urologist"
+    },
+    "bladder disorder": {
+        "DoctorToVisit": "Urologist"
+    },
+    "bladder obstruction": {
+        "DoctorToVisit": "Urologist"
+    },
+    "blepharitis": {
+        "DoctorToVisit": "Ophthalmologist"
+    },
+    "blepharospasm": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "bone cancer": {
+        "DoctorToVisit": "Oncologist"
+    },
+    "bone disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "bone spur of the calcaneous": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "brachial neuritis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "brain cancer": {
+        "DoctorToVisit": "Oncologist"
+    },
+    "breast cancer": {
+        "DoctorToVisit": "Oncologist"
+    },
+    "breast cyst": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "breast infection": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "broken tooth": {
+        "DoctorToVisit": "Dentist / Oral & Maxillofacial Surgeon"
+    },
+    "carbon monoxide poisoning": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "carcinoid syndrome": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "cardiac arrest": {
+        "DoctorToVisit": "Cardiologist"
+    },
+    "cardiomyopathy": {
+        "DoctorToVisit": "Cardiologist"
+    },
+    "carpal tunnel syndrome": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "cat scratch disease": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "celiac disease": {
+        "DoctorToVisit": "Gastroenterologist"
+    },
+    "cellulitis or abscess of mouth": {
+        "DoctorToVisit": "General Surgeon"
+    },
+    "central atherosclerosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "central retinal artery or vein occlusion": {
+        "DoctorToVisit": "Ophthalmologist"
+    },
+    "cerebral edema": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "cerebral palsy": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "cervical cancer": {
+        "DoctorToVisit": "Obstetrician-Gynecologist (OB-GYN)"
+    },
+    "cervical disorder": {
+        "DoctorToVisit": "Obstetrician-Gynecologist (OB-GYN)"
+    },
+    "cholecystitis": {
+        "DoctorToVisit": "Urologist"
+    },
+    "choledocholithiasis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "cholesteatoma": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "chondromalacia of the patella": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "chorioretinitis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "chronic back pain": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "chronic constipation": {
+        "DoctorToVisit": "Gastroenterologist"
+    },
+    "chronic glaucoma": {
+        "DoctorToVisit": "Ophthalmologist"
+    },
+    "chronic inflammatory demyelinating polyneuropathy": {
+        "DoctorToVisit": "Neurologist"
+    },
+    "chronic kidney disease": {
+        "DoctorToVisit": "Urologist"
+    },
+    "chronic knee pain": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "chronic obstructive pulmonary disease": {
+        "DoctorToVisit": "Pulmonologist"
+    },
+    "chronic otitis media": {
+        "DoctorToVisit": "ENT (Otolaryngologist)"
+    },
+    "chronic pain disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "chronic pancreatitis": {
+        "DoctorToVisit": "Gastroenterologist"
+    },
+    "chronic rheumatic fever": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "chronic sinusitis": {
+        "DoctorToVisit": "ENT (Otolaryngologist)"
+    },
+    "coagulation": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "colonic polyp": {
+        "DoctorToVisit": "Gastroenterologist"
+    },
+    "colorectal cancer": {
+        "DoctorToVisit": "Oncologist"
+    },
+    "common cold": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "complex regional pain syndrome": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "conduct disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "conductive hearing loss": {
+        "DoctorToVisit": "ENT (Otolaryngologist)"
+    },
+    "congenital heart defect": {
+        "DoctorToVisit": "Cardiologist"
+    },
+    "congenital malformation syndrome": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "conjunctivitis": {
+        "DoctorToVisit": "Ophthalmologist"
+    },
+    "conjunctivitis due to allergy": {
+        "DoctorToVisit": "Ophthalmologist"
+    },
+    "conjunctivitis due to bacteria": {
+        "DoctorToVisit": "Ophthalmologist"
+    },
+    "conjunctivitis due to virus": {
+        "DoctorToVisit": "Ophthalmologist"
+    },
+    "connective tissue disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "contact dermatitis": {
+        "DoctorToVisit": "Dermatologist"
+    },
+    "conversion disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "cornea infection": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "corneal abrasion": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "corneal disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "coronary atherosclerosis": {
+        "DoctorToVisit": "Cardiologist"
+    },
+    "cranial nerve palsy": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "crohn disease": {
+        "DoctorToVisit": "Gastroenterologist"
+    },
+    "crushing injury": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "cryptococcosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "cryptorchidism": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "cushing syndrome": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "cyst of the eyelid": {
+        "DoctorToVisit": "Ophthalmologist"
+    },
+    "cystic fibrosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "cysticercosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "de quervain disease": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "decubitus ulcer": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "deep vein thrombosis": {
+        "DoctorToVisit": "Vascular Surgeon"
+    },
+    "degenerative disc disease": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "dengue fever": {
+        "DoctorToVisit": "Infectious Disease Specialist"
+    },
+    "dental caries": {
+        "DoctorToVisit": "Dentist / Oral & Maxillofacial Surgeon"
+    },
+    "dermatitis due to sun exposure": {
+        "DoctorToVisit": "Dermatologist"
+    },
+    "developmental disability": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "deviated nasal septum": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "diabetes insipidus": {
+        "DoctorToVisit": "Endocrinologist"
+    },
+    "diabetic ketoacidosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "diabetic kidney disease": {
+        "DoctorToVisit": "Urologist"
+    },
+    "diabetic peripheral neuropathy": {
+        "DoctorToVisit": "Neurologist"
+    },
+    "diabetic retinopathy": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "diaper rash": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "dislocation of the ankle": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "dislocation of the elbow": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "dislocation of the finger": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "dislocation of the foot": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "dislocation of the hip": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "dislocation of the knee": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "dislocation of the patella": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "dislocation of the shoulder": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "dislocation of the vertebra": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "dislocation of the wrist": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "dissociative disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "diverticulitis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "diverticulosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "down syndrome": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "barbiturates": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "methamphetamine": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "drug poisoning due to medication": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "drug reaction": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "drug withdrawal": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "dry eye of unknown cause": {
+        "DoctorToVisit": "Ophthalmologist"
+    },
+    "dumping syndrome": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "dyshidrosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "dysthymic disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "ear drum damage": {
+        "DoctorToVisit": "ENT (Otolaryngologist)"
+    },
+    "ear wax impaction": {
+        "DoctorToVisit": "ENT (Otolaryngologist)"
+    },
+    "eating disorder": {
+        "DoctorToVisit": "Psychiatrist"
+    },
+    "ectopic pregnancy": {
+        "DoctorToVisit": "Obstetrician-Gynecologist (OB-GYN)"
+    },
+    "edward syndrome": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "encephalitis": {
+        "DoctorToVisit": "Neurologist"
+    },
+    "endocarditis": {
+        "DoctorToVisit": "Cardiologist"
+    },
+    "endometrial cancer": {
+        "DoctorToVisit": "Oncologist"
+    },
+    "endometrial hyperplasia": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "endometriosis": {
+        "DoctorToVisit": "Obstetrician-Gynecologist (OB-GYN)"
+    },
+    "endophthalmitis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "envenomation from spider or animal bite": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "epididymitis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "epidural hemorrhage": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "erectile dysfunction": {
+        "DoctorToVisit": "Urologist"
+    },
+    "erythema multiforme": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "esophageal cancer": {
+        "DoctorToVisit": "Oncologist"
+    },
+    "esophageal varices": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "esophagitis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "essential tremor": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "eustachian tube dysfunction": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "ear disorder": {
+        "DoctorToVisit": "ENT (Otolaryngologist)"
+    },
+    "extrapyramidal effect of drugs": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "eye alignment disorder": {
+        "DoctorToVisit": "Ophthalmologist"
+    },
+    "factitious disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "female genitalia infection": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "female infertility of unknown cause": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "fetal alcohol syndrome": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "fibroadenoma": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "fibrocystic breast disease": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "fibromyalgia": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "fluid overload": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "folate deficiency": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "food allergy": {
+        "DoctorToVisit": "Allergist/Immunologist"
+    },
+    "foreign body in the ear": {
+        "DoctorToVisit": "ENT (Otolaryngologist)"
+    },
+    "foreign body in the eye": {
+        "DoctorToVisit": "Ophthalmologist"
+    },
+    "foreign body in the gastrointestinal tract": {
+        "DoctorToVisit": "Gastroenterologist"
+    },
+    "foreign body in the throat": {
+        "DoctorToVisit": "ENT (Otolaryngologist)"
+    },
+    "foreign body in the vagina": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "fracture of the ankle": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "fracture of the arm": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "fracture of the facial bones": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "fracture of the finger": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "fracture of the foot": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "fracture of the hand": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "fracture of the jaw": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "fracture of the leg": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "fracture of the neck": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "fracture of the patella": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "fracture of the pelvis": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "fracture of the rib": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "fracture of the shoulder": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "fracture of the skull": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "fracture of the vertebra": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "friedrich ataxia": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "fungal infection of the hair": {
+        "DoctorToVisit": "Dermatologist"
+    },
+    "fungal infection of the skin": {
+        "DoctorToVisit": "Dermatologist"
+    },
+    "pd enzyme deficiency": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "galactorrhea of unknown cause": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "ganglion cyst": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "gastroduodenal ulcer": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "gastroesophageal reflux disease": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "gastrointestinal hemorrhage": {
+        "DoctorToVisit": "Gastroenterologist"
+    },
+    "gastroparesis": {
+        "DoctorToVisit": "Gastroenterologist"
+    },
+    "genital herpes": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "gestational diabetes": {
+        "DoctorToVisit": "Endocrinologist"
+    },
+    "glucocorticoid deficiency": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "granuloma inguinale": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "graves disease": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "guillain barre syndrome": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "gum disease": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "gynecomastia": {
+        "DoctorToVisit": "Obstetrician-Gynecologist (OB-GYN)"
+    },
+    "hashimoto thyroiditis": {
+        "DoctorToVisit": "Endocrinologist"
+    },
+    "head and neck cancer": {
+        "DoctorToVisit": "Oncologist"
+    },
+    "head injury": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "headache after lumbar puncture": {
+        "DoctorToVisit": "Neurologist"
+    },
+    "heart attack": {
+        "DoctorToVisit": "Cardiologist"
+    },
+    "heart block": {
+        "DoctorToVisit": "Cardiologist"
+    },
+    "heart contusion": {
+        "DoctorToVisit": "Cardiologist"
+    },
+    "heart failure": {
+        "DoctorToVisit": "Cardiologist"
+    },
+    "heat exhaustion": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "hemarthrosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "hemochromatosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "hemolytic anemia": {
+        "DoctorToVisit": "Hematologist"
+    },
+    "hemorrhoids": {
+        "DoctorToVisit": "General Surgeon"
+    },
+    "hepatic encephalopathy": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "hepatitis due to a toxin": {
+        "DoctorToVisit": "Hepatologist / Gastroenterologist"
+    },
+    "herniated disk": {
+        "DoctorToVisit": "General Surgeon"
+    },
+    "hiatal hernia": {
+        "DoctorToVisit": "General Surgeon"
+    },
+    "hidradenitis suppurativa": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "hirschsprung disease": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "histoplasmosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "hormone disorder": {
+        "DoctorToVisit": "Endocrinologist"
+    },
+    "human immunodeficiency virus infection": {
+        "DoctorToVisit": "Allergist/Immunologist"
+    },
+    "hydatidiform mole": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "hydrocele of the testicle": {
+        "DoctorToVisit": "Urologist"
+    },
+    "hydrocephalus": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "hydronephrosis": {
+        "DoctorToVisit": "Nephrologist"
+    },
+    "hypercalcemia": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "hypercholesterolemia": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "hyperemesis gravidarum": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "hyperhidrosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "hyperkalemia": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "hyperlipidemia": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "hypernatremia": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "hyperosmotic hyperketotic state": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "hypertension of pregnancy": {
+        "DoctorToVisit": "Obstetrician-Gynecologist (OB-GYN)"
+    },
+    "hypertensive heart disease": {
+        "DoctorToVisit": "Cardiologist"
+    },
+    "hypertrophic obstructive cardiomyopathy": {
+        "DoctorToVisit": "Cardiologist"
+    },
+    "hypocalcemia": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "hypoglycemia": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "hypokalemia": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "hyponatremia": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "hypothermia": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "hypothyroidism": {
+        "DoctorToVisit": "Endocrinologist"
+    },
+    "hypovolemia": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "idiopathic absence of menstruation": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "idiopathic excessive menstruation": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "idiopathic infrequent menstruation": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "idiopathic irregular menstrual cycle": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "idiopathic nonmenstrual bleeding": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "idiopathic painful menstruation": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "impulse control disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "indigestion": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "induced abortion": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "infection of open wound": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "infectious gastroenteritis": {
+        "DoctorToVisit": "Infectious Disease Specialist"
+    },
+    "ingrown toe nail": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "inguinal hernia": {
+        "DoctorToVisit": "General Surgeon"
+    },
+    "injury of the ankle": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "injury to internal organ": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "injury to the abdomen": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "injury to the arm": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "injury to the face": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "injury to the finger": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "injury to the hand": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "injury to the hip": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "injury to the knee": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "injury to the leg": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "injury to the shoulder": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "injury to the spinal cord": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "injury to the trunk": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "insect bite": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "insulin overdose": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "interstitial lung disease": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "skin condition": {
+        "DoctorToVisit": "Dermatologist"
+    },
+    "intestinal cancer": {
+        "DoctorToVisit": "Gastroenterologist"
+    },
+    "intestinal disease": {
+        "DoctorToVisit": "Gastroenterologist"
+    },
+    "intestinal malabsorption": {
+        "DoctorToVisit": "Gastroenterologist"
+    },
+    "intestinal obstruction": {
+        "DoctorToVisit": "General Surgeon"
+    },
+    "intracerebral hemorrhage": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "intracranial abscess": {
+        "DoctorToVisit": "General Surgeon"
+    },
+    "intracranial hemorrhage": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "intussusception": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "iridocyclitis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "iron deficiency anemia": {
+        "DoctorToVisit": "Hematologist"
+    },
+    "irritable bowel syndrome": {
+        "DoctorToVisit": "Gastroenterologist"
+    },
+    "ischemia of the bowel": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "ischemic heart disease": {
+        "DoctorToVisit": "Cardiologist"
+    },
+    "itching of unknown cause": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "jaw disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "joint effusion": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "juvenile rheumatoid arthritis": {
+        "DoctorToVisit": "Rheumatologist"
+    },
+    "kidney cancer": {
+        "DoctorToVisit": "Urologist"
+    },
+    "kidney disease due to longstanding hypertension": {
+        "DoctorToVisit": "Cardiologist / Internal Medicine"
+    },
+    "kidney failure": {
+        "DoctorToVisit": "Urologist"
+    },
+    "kidney stone": {
+        "DoctorToVisit": "Urologist"
+    },
+    "knee ligament or meniscus tear": {
+        "DoctorToVisit": "ENT (Otolaryngologist)"
+    },
+    "labyrinthitis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "lactose intolerance": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "lateral epicondylitis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "tennis elbow": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "lewy body dementia": {
+        "DoctorToVisit": "Neurologist"
+    },
+    "lichen planus": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "lichen simplex": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "liver cancer": {
+        "DoctorToVisit": "Hepatologist / Gastroenterologist"
+    },
+    "liver disease": {
+        "DoctorToVisit": "Hepatologist / Gastroenterologist"
+    },
+    "lung cancer": {
+        "DoctorToVisit": "Oncologist"
+    },
+    "lung contusion": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "lyme disease": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "lymphadenitis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "lymphangitis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "lymphogranuloma venereum": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "macular degeneration": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "magnesium deficiency": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "male genitalia infection": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "malignant hypertension": {
+        "DoctorToVisit": "Cardiologist / Internal Medicine"
+    },
+    "marijuana abuse": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "mastoiditis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "meckel diverticulum": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "meniere disease": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "metabolic disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "metastatic cancer": {
+        "DoctorToVisit": "Oncologist"
+    },
+    "missed abortion": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "mitral valve disease": {
+        "DoctorToVisit": "Cardiologist"
+    },
+    "mittelschmerz": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "molluscum contagiosum": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "mononeuritis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "mononucleosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "moyamoya disease": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "multiple myeloma": {
+        "DoctorToVisit": "Hematologist"
+    },
+    "multiple sclerosis": {
+        "DoctorToVisit": "Neurologist"
+    },
+    "muscle spasm": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "muscular dystrophy": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "myasthenia gravis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "myelodysplastic syndrome": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "nasal polyp": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "necrotizing fasciitis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "neonatal jaundice": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "nerve impingement near the shoulder": {
+        "DoctorToVisit": "ENT (Otolaryngologist)"
+    },
+    "neurofibromatosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "neuropathy due to drugs": {
+        "DoctorToVisit": "Neurologist"
+    },
+    "nonalcoholic liver disease": {
+        "DoctorToVisit": "Hepatologist / Gastroenterologist"
+    },
+    "noninfectious gastroenteritis": {
+        "DoctorToVisit": "Infectious Disease Specialist"
+    },
+    "normal pressure hydrocephalus": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "nose disorder": {
+        "DoctorToVisit": "ENT (Otolaryngologist)"
+    },
+    "obsessive compulsive disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "obstructive sleep apnea": {
+        "DoctorToVisit": "Rheumatologist"
+    },
+    "onychomycosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "open wound from surgical incision": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "open wound of the abdomen": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "open wound of the arm": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "open wound of the back": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "open wound of the ear": {
+        "DoctorToVisit": "ENT (Otolaryngologist)"
+    },
+    "open wound of the eye": {
+        "DoctorToVisit": "Ophthalmologist"
+    },
+    "open wound of the face": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "open wound of the finger": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "open wound of the foot": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "open wound of the hand": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "open wound of the jaw": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "open wound of the lip": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "open wound of the mouth": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "open wound of the neck": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "open wound of the nose": {
+        "DoctorToVisit": "ENT (Otolaryngologist)"
+    },
+    "open wound of the shoulder": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "oppositional disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "optic neuritis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "oral leukoplakia": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "oral mucosal lesion": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "oral thrush": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "yeast infection": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "orbital cellulitis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "orthostatic hypotension": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "osteoarthritis": {
+        "DoctorToVisit": "Rheumatologist"
+    },
+    "osteochondroma": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "osteochondrosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "osteomyelitis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "osteoporosis": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "otitis externa": {
+        "DoctorToVisit": "ENT (Otolaryngologist)"
+    },
+    "otitis media": {
+        "DoctorToVisit": "ENT (Otolaryngologist)"
+    },
+    "otosclerosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "ovarian cancer": {
+        "DoctorToVisit": "Obstetrician-Gynecologist (OB-GYN)"
+    },
+    "ovarian cyst": {
+        "DoctorToVisit": "Obstetrician-Gynecologist (OB-GYN)"
+    },
+    "ovarian torsion": {
+        "DoctorToVisit": "Obstetrician-Gynecologist (OB-GYN)"
+    },
+    "overflow incontinence": {
+        "DoctorToVisit": "Urologist"
+    },
+    "pain after an operation": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "pain disorder affecting the neck": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "pancreatic cancer": {
+        "DoctorToVisit": "Oncologist"
+    },
+    "panic attack": {
+        "DoctorToVisit": "Psychiatrist"
+    },
+    "panic disorder": {
+        "DoctorToVisit": "Psychiatrist"
+    },
+    "parasitic disease": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "parathyroid adenoma": {
+        "DoctorToVisit": "Endocrinologist"
+    },
+    "parkinson disease": {
+        "DoctorToVisit": "Neurologist"
+    },
+    "paroxysmal supraventricular tachycardia": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "paroxysmal ventricular tachycardia": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "pelvic fistula": {
+        "DoctorToVisit": "General Surgeon"
+    },
+    "pelvic inflammatory disease": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "pelvic organ prolapse": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "pericarditis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "peripheral arterial disease": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "peripheral arterial embolism": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "peripheral nerve disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "perirectal infection": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "peritonitis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "peritonsillar abscess": {
+        "DoctorToVisit": "General Surgeon"
+    },
+    "persistent vomiting of unknown cause": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "personality disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "peyronie disease": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "pharyngitis": {
+        "DoctorToVisit": "ENT (Otolaryngologist)"
+    },
+    "pilonidal cyst": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "pinworm infection": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "pituitary adenoma": {
+        "DoctorToVisit": "Endocrinologist"
+    },
+    "pituitary disorder": {
+        "DoctorToVisit": "Endocrinologist"
+    },
+    "pityriasis rosea": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "placenta previa": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "placental abruption": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "plantar fasciitis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "pleural effusion": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "pneumoconiosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "pneumothorax": {
+        "DoctorToVisit": "Pulmonologist"
+    },
+    "poisoning due to analgesics": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "poisoning due to anticonvulsants": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "poisoning due to antidepressants": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "poisoning due to antihypertensives": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "poisoning due to antimicrobial drugs": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "poisoning due to antipsychotics": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "poisoning due to ethylene glycol": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "poisoning due to gas": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "poisoning due to opioids": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "poisoning due to sedatives": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "polycystic kidney disease": {
+        "DoctorToVisit": "Urologist"
+    },
+    "polycystic ovarian syndrome": {
+        "DoctorToVisit": "Obstetrician-Gynecologist (OB-GYN)"
+    },
+    "polycythemia vera": {
+        "DoctorToVisit": "Hematologist"
+    },
+    "polymyalgia rheumatica": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "post-traumatic stress disorder": {
+        "DoctorToVisit": "Psychiatrist"
+    },
+    "postoperative infection": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "postpartum depression": {
+        "DoctorToVisit": "Obstetrician-Gynecologist (OB-GYN)"
+    },
+    "preeclampsia": {
+        "DoctorToVisit": "Obstetrician-Gynecologist (OB-GYN)"
+    },
+    "premature atrial contractions": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "premature ovarian failure": {
+        "DoctorToVisit": "Obstetrician-Gynecologist (OB-GYN)"
+    },
+    "premature rupture of amniotic membrane": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "premature ventricular contractions": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "premenstrual tension syndrome": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "presbyacusis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "primary immunodeficiency": {
+        "DoctorToVisit": "Allergist/Immunologist"
+    },
+    "primary insomnia": {
+        "DoctorToVisit": "Psychiatrist"
+    },
+    "primary kidney disease": {
+        "DoctorToVisit": "Urologist"
+    },
+    "primary thrombocythemia": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "problem during pregnancy": {
+        "DoctorToVisit": "Obstetrician-Gynecologist (OB-GYN)"
+    },
+    "prostate cancer": {
+        "DoctorToVisit": "Urologist"
+    },
+    "prostatitis": {
+        "DoctorToVisit": "Urologist"
+    },
+    "protein deficiency": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "pseudohypoparathyroidism": {
+        "DoctorToVisit": "Endocrinologist"
+    },
+    "pseudotumor cerebri": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "psychosexual disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "psychotic disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "pulmonary congestion": {
+        "DoctorToVisit": "Pulmonologist"
+    },
+    "pulmonary embolism": {
+        "DoctorToVisit": "Pulmonologist"
+    },
+    "pulmonary eosinophilia": {
+        "DoctorToVisit": "Pulmonologist"
+    },
+    "pulmonary fibrosis": {
+        "DoctorToVisit": "Pulmonologist"
+    },
+    "pulmonary hypertension": {
+        "DoctorToVisit": "Cardiologist / Internal Medicine"
+    },
+    "pulmonic valve disease": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "pyelonephritis": {
+        "DoctorToVisit": "Nephrologist"
+    },
+    "pyloric stenosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "pyogenic skin infection": {
+        "DoctorToVisit": "Dermatologist"
+    },
+    "raynaud disease": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "reactive arthritis": {
+        "DoctorToVisit": "Rheumatologist"
+    },
+    "rectal disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "restless leg syndrome": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "retinal detachment": {
+        "DoctorToVisit": "Ophthalmologist"
+    },
+    "retinopathy due to high blood pressure": {
+        "DoctorToVisit": "Cardiologist / Internal Medicine"
+    },
+    "rhabdomyolysis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "rheumatic fever": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "rheumatoid arthritis": {
+        "DoctorToVisit": "Rheumatologist"
+    },
+    "rotator cuff injury": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "salivary gland disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "sarcoidosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "scarlet fever": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "schizophrenia": {
+        "DoctorToVisit": "Psychiatrist"
+    },
+    "scleroderma": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "seasonal allergies": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "sebaceous cyst": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "seborrheic dermatitis": {
+        "DoctorToVisit": "Dermatologist"
+    },
+    "seborrheic keratosis": {
+        "DoctorToVisit": "Dermatologist"
+    },
+    "sensorineural hearing loss": {
+        "DoctorToVisit": "ENT (Otolaryngologist)"
+    },
+    "septic arthritis": {
+        "DoctorToVisit": "Rheumatologist"
+    },
+    "herpes zoster": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "sialoadenitis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "sick sinus syndrome": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "sickle cell anemia": {
+        "DoctorToVisit": "Hematologist"
+    },
+    "sickle cell crisis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "sinus bradycardia": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "sjogren syndrome": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "skin cancer": {
+        "DoctorToVisit": "Dermatologist"
+    },
+    "skin disorder": {
+        "DoctorToVisit": "Dermatologist"
+    },
+    "skin pigmentation disorder": {
+        "DoctorToVisit": "Dermatologist"
+    },
+    "smoking or tobacco addiction": {
+        "DoctorToVisit": "Psychiatrist"
+    },
+    "social phobia": {
+        "DoctorToVisit": "Psychiatrist"
+    },
+    "soft tissue sarcoma": {
+        "DoctorToVisit": "Oncologist"
+    },
+    "somatization disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "spermatocele": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "spherocytosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "spina bifida": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "spinal stenosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "spinocerebellar ataxia": {
+        "DoctorToVisit": "Neurologist"
+    },
+    "spondylitis": {
+        "DoctorToVisit": "Rheumatologist"
+    },
+    "spondylolisthesis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "spondylosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "spontaneous abortion": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "sporotrichosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "sprain or strain": {
+        "DoctorToVisit": "Orthopedic Surgeon"
+    },
+    "stenosis of the tear duct": {
+        "DoctorToVisit": "ENT (Otolaryngologist)"
+    },
+    "stomach cancer": {
+        "DoctorToVisit": "Oncologist"
+    },
+    "strep throat": {
+        "DoctorToVisit": "ENT (Otolaryngologist)"
+    },
+    "stress incontinence": {
+        "DoctorToVisit": "Urologist"
+    },
+    "stricture of the esophagus": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "subacute thyroiditis": {
+        "DoctorToVisit": "Endocrinologist"
+    },
+    "subarachnoid hemorrhage": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "subconjunctival hemorrhage": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "subdural hemorrhage": {
+        "DoctorToVisit": "Neurosurgeon"
+    },
+    "substance-related mental disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "syndrome of inappropriate secretion of adh": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "syringomyelia": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "systemic lupus erythematosis": {
+        "DoctorToVisit": "Rheumatologist"
+    },
+    "teething syndrome": {
+        "DoctorToVisit": "Dentist / Oral & Maxillofacial Surgeon"
+    },
+    "temporary or benign blood in urine": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "temporomandibular joint disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "tension headache": {
+        "DoctorToVisit": "Neurologist"
+    },
+    "testicular cancer": {
+        "DoctorToVisit": "Oncologist"
+    },
+    "testicular disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "testicular torsion": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "thoracic aortic aneurysm": {
+        "DoctorToVisit": "Vascular Surgeon"
+    },
+    "thoracic outlet syndrome": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "threatened pregnancy": {
+        "DoctorToVisit": "Obstetrician-Gynecologist (OB-GYN)"
+    },
+    "thrombocytopenia": {
+        "DoctorToVisit": "Hematologist"
+    },
+    "thrombophlebitis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "thyroid cancer": {
+        "DoctorToVisit": "Endocrinologist"
+    },
+    "thyroid disease": {
+        "DoctorToVisit": "Endocrinologist"
+    },
+    "thyroid nodule": {
+        "DoctorToVisit": "Endocrinologist"
+    },
+    "tietze syndrome": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "tinnitus of unknown cause": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "tonsillar hypertrophy": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "tonsillitis": {
+        "DoctorToVisit": "ENT (Otolaryngologist)"
+    },
+    "tooth abscess": {
+        "DoctorToVisit": "Dentist / Oral & Maxillofacial Surgeon"
+    },
+    "tooth disorder": {
+        "DoctorToVisit": "Dentist / Oral & Maxillofacial Surgeon"
+    },
+    "torticollis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "tourette syndrome": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "toxic multinodular goiter": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "toxoplasmosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "transient ischemic attack": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "trichinosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "trichomonas infection": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "tricuspid valve disease": {
+        "DoctorToVisit": "Cardiologist"
+    },
+    "trigeminal neuralgia": {
+        "DoctorToVisit": "Neurologist"
+    },
+    "trigger finger": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "finger disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "tuberculosis": {
+        "DoctorToVisit": "Pulmonologist"
+    },
+    "tuberous sclerosis": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "ulcerative colitis": {
+        "DoctorToVisit": "Gastroenterologist"
+    },
+    "urethral disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "urethral stricture": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "urethral valves": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "urge incontinence": {
+        "DoctorToVisit": "Urologist"
+    },
+    "urinary tract infection": {
+        "DoctorToVisit": "Urologist"
+    },
+    "urinary tract obstruction": {
+        "DoctorToVisit": "Urologist"
+    },
+    "uterine atony": {
+        "DoctorToVisit": "Obstetrician-Gynecologist (OB-GYN)"
+    },
+    "uterine cancer": {
+        "DoctorToVisit": "Obstetrician-Gynecologist (OB-GYN)"
+    },
+    "uterine fibroids": {
+        "DoctorToVisit": "Obstetrician-Gynecologist (OB-GYN)"
+    },
+    "vacterl syndrome": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "vaginal cyst": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "vaginal yeast infection": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "valley fever": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "varicocele of the testicles": {
+        "DoctorToVisit": "Urologist"
+    },
+    "varicose veins": {
+        "DoctorToVisit": "Vascular Surgeon"
+    },
+    "venous insufficiency": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "vertebrobasilar insufficiency": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "vesicoureteral reflux": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "viral exanthem": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "viral hepatitis": {
+        "DoctorToVisit": "Hepatologist / Gastroenterologist"
+    },
+    "viral warts": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "vitamin a deficiency": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "vitamin d deficiency": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "vitreous degeneration": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "vitreous hemorrhage": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "vocal cord polyp": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "von willebrand disease": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "vulvar cancer": {
+        "DoctorToVisit": "Oncologist"
+    },
+    "vulvar disorder": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "wernicke korsakoff syndrome": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "white blood cell disease": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "whooping cough": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "wilson disease": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    },
+    "zenker diverticulum": {
+        "DoctorToVisit": "Internal Medicine / General Physician"
+    }
+}
